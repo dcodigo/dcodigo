@@ -6,3 +6,4 @@
 <!---
 dcodigo/dcodigo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
+<img src="https://github.com/carlosbionic/carlosbionic/blob/main/header.png" alt="banner image carlos">
